@@ -97,3 +97,9 @@ property of the digit sequence itself.
 
 See `PLAN.md`. Work goals strictly in order; Goal 1 (the `k = 1` vertical
 slice) must be finished end-to-end before generalizing anything.
+
+## Shared Lean context
+
+The standing rules for my Lean repos ([public copy](https://github.com/gotrevor/lean-agent-skills/blob/main/context/LEAN-NEW-MATH.md)).  New math is the default lane.
+
+@~/src/lean-agent-skills/context/LEAN-NEW-MATH.md
